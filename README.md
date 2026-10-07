@@ -59,7 +59,7 @@ Welcome to the definitive awesome list for **Public Key Infrastructure (PKI)**, 
 
 The open-source ecosystem provides robust certificate authorities, workload identity control planes, and identity providers.
 
-*(Sorted by GitHub Stars_Count descending within each category)*
+*(Sorted by GitHub_Stars_Count descending within each category)*
 
 ### 🛡️ Workload Identity & Zero-Trust
 
